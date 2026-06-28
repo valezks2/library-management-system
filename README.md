@@ -1,42 +1,19 @@
-# library
+<div align="center">
 
-This template should help get you started developing with Vue 3 in Vite.
+# Library Management System
 
-## Recommended IDE Setup
+<p>A simple library system designed to manage and track book stock.</p>
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<p align="center">
+  <img src="https://img.shields.io/github/v/tag/valezks2/library-management-system?style=for-the-badge&color=007ec6&label=VERSION" alt="Version">
+  <img src="https://img.shields.io/badge/VUE-3.5+-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+</p>
 
-## Recommended Browser Setup
+<br />
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+<p align="center">
+  <a href="https://postimg.cc/zLwkNq5q"><img src="https://i.postimg.cc/fbpqxbrS/library-management-system-1.png" alt="Library Management System View 1"></a>
+</p>
+<p align="center">
+  <a href="https://postimg.cc/2qdxYCm5"><img src="https://i.postimg.cc/MGN3yGF1/library-management-system-2.png" alt="Library Management System View 2"></a>
+</p>
